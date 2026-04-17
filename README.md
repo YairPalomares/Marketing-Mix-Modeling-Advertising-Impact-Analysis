@@ -1,0 +1,2 @@
+# Marketing-Mix-Modeling-Advertising-Impact-Analysis
+Statistical analysis of advertising spend across TV, Radio, and Newspaper to predict sales impact. Optimized a Multiple Linear Regression model (Adj. R²: 0.898) and conducted rigorous diagnostic testing, including Durbin-Watson for independence and White's Test for heteroscedasticity. Validated model assumptions to ensure robust business insights.
